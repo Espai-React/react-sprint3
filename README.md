@@ -1,4 +1,12 @@
-# Sprint 3 IT Academy | Shop
+# React Sprint 3
+
+## Exercicis Sprint 3. Itinerari React online IT Academy. 
+
+- Programació en Js
+- Maquetació en Bootstrap
+- Purgat amb purgeCSS
+
+Alumne: Jordi Llop
 
 ## Introduction
 
