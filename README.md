@@ -6,6 +6,8 @@
 - Maquetació en Bootstrap
 - Purgat amb purgeCSS
 
+Deployment: https://llopfilms.github.io/React-Sprint3/
+
 Alumne: Jordi Llop
 
 ## Introduction
