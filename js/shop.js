@@ -86,8 +86,8 @@ function generateCart() {
           cartItem.quantity = 1;
           
       } else {
-          cartItem = cart[cartItemIndex];
-          cartItem.quantity++;
+				cartItem = cart[cartItemIndex];
+        cartItem.quantity++;
           
       }
       cartItem.subTotal = cartItem.price * cartItem.quantity;
